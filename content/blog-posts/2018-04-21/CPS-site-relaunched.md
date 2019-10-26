@@ -83,9 +83,9 @@ Seeing as we don't need to have a database at all for this site we can have fewe
 
 Because you don't need a database behind a static site you can set up local development much more easily.
 
-We have a virtual machine setup as a base for developing in Gatsby which we put on GitHub: https://github.com/customprogrammingsolutions/gatsbyjs-vagrant
+We have a virtual machine setup as a base for developing in Gatsby which we put on GitHub: https://github.com/ScryEngineering/gatsbyjs-vagrant
 
-We found it was much easier to get up to speed with local development on a new box as a result. If you have any issues with our VM please [open an issue](https://github.com/customprogrammingsolutions/gatsbyjs-vagrant/issues) over on GitHub and we will try to help you out.
+We found it was much easier to get up to speed with local development on a new box as a result. If you have any issues with our VM please [open an issue](https://github.com/ScryEngineering/gatsbyjs-vagrant/issues) over on GitHub and we will try to help you out.
 
 ## Deployments are much easier
 

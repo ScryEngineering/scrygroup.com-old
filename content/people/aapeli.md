@@ -7,7 +7,7 @@ location: "Australia"
 bio: "Senior Technical Consultant"
 socialUrls:
     - "https://github.com/aapeliv"
-    - "mailto:aapeli@customprogrammingsolutions.com.au"
+    - "mailto:aapeli@scrygroup.com"
     - "https://www.linkedin.com/in/aapelivuorinen/"
 shortBlurb: "Aapeli is a Senior Technical Consultant at Scry Engineering. As our in-house blockchain and mathematics specialist, he has a passion for using technology and abstract reasoning to solve complex problems with smart, creative people. He brings rigorous mathematical thinking and in-depth expertise in cryptography, mathematical optimization and general systems architecture & development to his role.
 

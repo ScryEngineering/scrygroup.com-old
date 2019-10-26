@@ -22,7 +22,7 @@ Sometimes you need to know how much memory something uses, for the most part thi
 
 That said it's still very valuable to know approximately how many bytes of memory various things will need. Because when you need this you _really_ need it.
 
-(All the code in the article can be found over on our GitHub organizations page: https://github.com/customprogrammingsolutions/python-memory-usage/)
+(All the code in the article can be found over on our GitHub organizations page: https://github.com/ScryEngineering/python-memory-usage/)
 
 If you want to get an introduction to how CPython manages memory have a look at [our PyCon 2019 poster](https://www.lesinskis.com/images/CPythonMemoryStructurePosterJanisLesinskisAlyshaIannetta.pdf) that summarizes the core concepts.
 

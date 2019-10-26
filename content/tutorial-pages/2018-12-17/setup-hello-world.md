@@ -15,7 +15,7 @@ When you have used Python a lot you'll notice that you will use tools such as `p
 
 ## Source code
 
-The code that is used in this article is hosted up on GitHub in the [CustomProgrammingSolutions/setup.py-intro repository](https://github.com/CustomProgrammingSolutions/setup.py-intro).
+The code that is used in this article is hosted up on GitHub in the [ScryEngineering/setup.py-intro repository](https://github.com/ScryEngineering/setup.py-intro).
 
 In this example we are turning a relatively simple file called `greeting.py` into an installable package. This file is just the following:
 
@@ -67,7 +67,7 @@ from setuptools import setup
 setup(name='hello_world',
       version='0.0.1',
       description='Shows how to use setup.py',
-      url='https://www.customprogrammingsolutions.com',
+      url='https://www.scrygroup.com',
       author='Janis Lesinskis',
       license='GPLv3',
       packages=['hello_world'],

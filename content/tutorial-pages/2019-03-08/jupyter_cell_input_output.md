@@ -15,7 +15,7 @@ Wondered what those `In[10]` and `Out[10]` things are in your Jupyter notebooks 
 
 <!-- end excerpt -->
 
-See the [notebook source on Github](https://github.com/CustomProgrammingSolutions/Jupyter_examples/blob/master/CellInputsAndOutputs.ipynb)
+See the [notebook source on Github](https://github.com/ScryEngineering/Jupyter_examples/blob/master/CellInputsAndOutputs.ipynb)
 
 [Jupyter notebooks](https://Jupyter.org/) are a powerful browser based interactive computing notebook that makes it super easy to make high quality presentations of data. Jupyter has got popular in recent years because it lends itself very well to data science tasks as it makes it easy to work with data and create nice visualizations and reports from within the browser.
 

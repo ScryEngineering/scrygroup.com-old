@@ -14,7 +14,7 @@ You want to be able to get good logging data from your applications to be able t
 
 <!-- end excerpt -->
 
-Example code for this tutorial can be found on our GitHub page: [https://github.com/customprogrammingsolutions/excepthook\_logging\_example](https://github.com/customprogrammingsolutions/excepthook_logging_example)
+Example code for this tutorial can be found on our GitHub page: [https://github.com/ScryEngineering/excepthook\_logging\_example](https://github.com/ScryEngineering/excepthook_logging_example)
 
 The logging package in the standard library is very good for general purpose logging, this lets you put in code that will write to the logs without needing any external packages. For the most part it will cover all your most common logging needs, however uncaught exceptions is something it can't handle on its own.
 

@@ -13,9 +13,9 @@ contentType: "blog"
 callToActionText: "Are you looking to learn more about how process automation can solve problems in your business? We'd love to chat. Fill in the form below and we will be in touch."
 ---
 
-If you've ever spent an entire day at the office slogging through a mountain of paperwork or felt your eyes glaze over while staring at  *another* simple customer inquiry on your screen, you know the feeling of wishing you could be doing almost anything else. Lucky for you, you can be. You can likely solve some of your most annoying problems with [process automation](https://www.customprogrammingsolutions.com/services/process-automation-and-optimization/).
+If you've ever spent an entire day at the office slogging through a mountain of paperwork or felt your eyes glaze over while staring at  *another* simple customer inquiry on your screen, you know the feeling of wishing you could be doing almost anything else. Lucky for you, you can be. You can likely solve some of your most annoying problems with [process automation](/services/process-automation-and-optimization/).
 
-In our last post, we delved into some [truths and myths about process automation](https://www.customprogrammingsolutions.com/blog/2019-08-14/6-truths-myths-process-automation/). In this one, we'll explain how automating your processes can help you get to inbox zero, respond to customer feedback, deploy software and more.
+In our last post, we delved into some [truths and myths about process automation](/blog/2019-08-14/6-truths-myths-process-automation/). In this one, we'll explain how automating your processes can help you get to inbox zero, respond to customer feedback, deploy software and more.
 
 <!-- end excerpt -->
 

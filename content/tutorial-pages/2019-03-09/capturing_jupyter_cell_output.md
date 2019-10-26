@@ -16,7 +16,7 @@ You might also not want to change your code, here's how you can do that...
 
 <!-- end excerpt -->
 
-See the [notebook source on Github](https://github.com/CustomProgrammingSolutions/Jupyter_examples/blob/master/CaptureOutputFromCell.ipynb)
+See the [notebook source on Github](https://github.com/ScryEngineering/Jupyter_examples/blob/master/CaptureOutputFromCell.ipynb)
 
 For example say you have this cell:
 

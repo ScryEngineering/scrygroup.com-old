@@ -18,7 +18,7 @@ There's a lot of information (and some hype) out there about what process automa
 
 ![Person using whiteboard and marker to plan automation of process](truths-myths-process-automation.png) 
 
-First things first; before we explore truths and myths, let's define [process automation](https://www.customprogrammingsolutions.com/services/process-automation-and-optimization/):
+First things first; before we explore truths and myths, let's define [process automation](/services/process-automation-and-optimization/):
 
 > Process automation (also known as Robotic Process Automation, or RPA) lets us use digital technology such as software to accomplish almost any task, workflow or activity we'd otherwise have to do manually. Think of your favorite accounting, marketing automation or batch file processing software. 
 

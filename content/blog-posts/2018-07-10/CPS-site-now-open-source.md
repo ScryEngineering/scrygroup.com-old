@@ -14,7 +14,7 @@ Like what you see here? Wonder how this site loads so fast? Now you can check ou
 
 Now that we have been using the new site for a while we have found life so much easier using [Gatsby](https://www.gatsbyjs.org/) and we wanted to share the joy so we decided to open source the code that powers this site.
 
-If you want to see how this site is made go have a look over on our GitHub page: <https://github.com/customprogrammingsolutions/CPS_gatsby>
+If you want to see how this site is made go have a look over on our GitHub page: <https://github.com/ScryEngineering/CPS_gatsby>
 
 If you like what you see please give us a star on the repository!
 

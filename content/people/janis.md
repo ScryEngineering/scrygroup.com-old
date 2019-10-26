@@ -7,7 +7,7 @@ location: "Australia/Canada"
 bio: "Director of Technological Innovation"
 socialUrls:
     - "https://github.com/shuttle1987"
-    - "mailto:janis@customprogrammingsolutions.com.au"
+    - "mailto:janis@scrygroup.com"
     - "https://www.linkedin.com/in/janislesinskis/"
 shortBlurb: "Janis is the Director of Technological Innovation at Scry Engineering. He takes on a diverse set of tasks, from business development to tech management and contributing his technical knowledge to many projects.
 

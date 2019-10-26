@@ -201,7 +201,7 @@ location: "Australia/Canada"
 bio: "Director of Technological Innovation"
 socialUrls:
     - "https://github.com/shuttle1987"
-    - "mailto:janis@customprogrammingsolutions.com.au"
+    - "mailto:janis@scrygroup.com"
     - "https://www.linkedin.com/in/janislesinskis/"
 shortBlurb: "The short blurb is a few of sentences long about the author.
 

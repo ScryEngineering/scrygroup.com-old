@@ -20,7 +20,7 @@ On Thursday I presented a talk about how CPython manages memory at the [Melbourn
 
 After introducing the notion of a variable in Python and how they are stored in `PyObjects` I talked about the overall memory layout of CPython:
 
-If you want more details the talk slides can be found here: <https://github.com/CustomProgrammingSolutions/python-memory-management-talk>
+If you want more details the talk slides can be found here: <https://github.com/ScryEngineering/python-memory-management-talk>
 (There's a number of detailed notes in the slides with references so check out the presenter mode (by pressing `p`) to see those notes.)
 
 Edit: Here's the poster of these concepts that this talk covered:

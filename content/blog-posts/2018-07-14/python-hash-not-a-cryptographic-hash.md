@@ -45,14 +45,14 @@ Unfortunately the builtin `hash` doesn’t necessarily meet the requirements for
 ### The hash does not always yield the same result given the same input
 
 ```python
-janis@customprogrammingsolutions:~$ python3
+janis@scry:~$ python3
 Python 3.5.2 (default, Nov 23 2017, 16:37:01)
 [GCC 5.4.0 20160609] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> hash("abcdef")
 3361618094207257066
 >>> exit()
-janis@customprogrammingsolutions:~$ python3
+janis@scry:~$ python3
 Python 3.5.2 (default, Nov 23 2017, 16:37:01)
 [GCC 5.4.0 20160609] on linux
 Type "help", "copyright", "credits" or "license" for more information.
@@ -68,7 +68,7 @@ The reason this is important is because in a lot of web frameworks that use Pyth
 ### The hash does not change substantially for small changes for some inputs
 
 ```python
-janis@customprogrammingsolutions:~$ python3
+janis@scry:~$ python3
 Python 3.5.2 (default, Nov 23 2017, 16:37:01)
 [GCC 5.4.0 20160609] on linux
 Type "help", "copyright", "credits" or "license" for more information.

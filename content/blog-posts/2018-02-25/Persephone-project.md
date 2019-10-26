@@ -21,7 +21,7 @@ Overall we are trying to prioritize the tasks that will bring the greatest retur
 Preliminaries
 =============
 
-Any good software project work has to start with a conversation about the aims and goals of the project and clear communications on what the scope of work is. The following is a summary of the communications between CustomProgrammingSolutions and the author of the project [Oliver Adams](https://oadams.github.io/).
+Any good software project work has to start with a conversation about the aims and goals of the project and clear communications on what the scope of work is. The following is a summary of the communications between Scry Engineering and the author of the project [Oliver Adams](https://oadams.github.io/).
 
 What is the high level summary of this project? What problems does it solve?
 

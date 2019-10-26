@@ -26,7 +26,7 @@ We particularly like using this because some bugs get caught by our CI pipeline 
 This has saved us a large amount of debugging time and has improved the correctness of our programs without costing us much at all.
 It fits in with our overall approach of having multiple lines of defense as no one methodology will catch everything.
 
-All the example code in this post can be found over on our GitHub repository: <https://github.com/customprogrammingsolutions/mypy_mocks>
+All the example code in this post can be found over on our GitHub repository: <https://github.com/ScryEngineering/mypy_mocks>
 
 Here are the questions that Robbie was interested in:
 
