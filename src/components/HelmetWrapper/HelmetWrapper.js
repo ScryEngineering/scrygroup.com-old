@@ -8,10 +8,10 @@ export default class HelmetWrapper extends React.Component {
   render(){
     return (
       <Helmet
-        titleTemplate="%s — Custom Programming Solutions">
+        titleTemplate="%s — Scry Engineering">
         <title>{this.props.title}</title>
-        <meta property="og:title" content={this.props.title + " — Custom Programming Solutions"} />
-        <meta name="twitter:title" value={this.props.title + " — Custom Programming Solutions"} />
+        <meta property="og:title" content={this.props.title + " — Scry Engineering"} />
+        <meta name="twitter:title" value={this.props.title + " — Scry Engineering"} />
         <meta property="og:description" content={this.props.description} />
         <meta name="twitter:description" value={this.props.description} />
         <meta property="og:image" content={config.siteUrl + "/" + this.props.image} />
@@ -33,5 +33,5 @@ HelmetWrapper.propTypes = {
 HelmetWrapper.defaultProps = {
   description: "A versatile programming, software development and consulting firm driven by trusted industry experts.",
   image: "thumbnail.png",
-  imageAlt: "Custom Programming Solutions",
+  imageAlt: "Scry Engineering",
 }

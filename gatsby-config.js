@@ -2,7 +2,7 @@ const config = require("./data/SiteConfig.js");
 
 module.exports = {
   siteMetadata: {
-    title: 'Custom Programming Solutions',
+    title: 'Scry Engineering',
     description: `A versatile programming, software development and consulting firm driven by trusted industry experts.`,
     siteUrl: config.siteUrl,
   },

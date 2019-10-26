@@ -18,8 +18,8 @@ export default class TemplateWrapper extends React.Component {
       <div className="wrapper">
         <HelmetWrapper title="Home">
           <meta property="og:type" content="website" />
-          <meta name="twitter:domain" value="www.customprogrammingsolutions.com" />
-          <meta property="og:site_name" content="Custom Programming Solutions" />
+          <meta name="twitter:domain" value="www.scrygroup.com" />
+          <meta property="og:site_name" content="Scry Engineering" />
           <meta name="twitter:card" content="summary_large_image" />
           <meta property="og:url" content={config.siteUrl + this.props.location.pathname} />
           <meta name="twitter:url" value={config.siteUrl + this.props.location.pathname} />
@@ -29,8 +29,8 @@ export default class TemplateWrapper extends React.Component {
         {this.props.children}
         <Footer
           copyright={{
-            label: "Custom Programming Solutions Pty Ltd",
-            url: "https://www.customprogrammingsolutions.com"
+            label: "Scry Engineering",
+            url: "https://www.scrygroup.com"
           }}
         />
       </div>

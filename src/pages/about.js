@@ -9,13 +9,13 @@ import Layout from '../components/Layout/Layout'
 const IndexPage = props => (
   <Layout location={props.location}>
    <HelmetWrapper title="About" />
-    <Masthead heading="About Custom Programming Solutions" />
+    <Masthead heading="About Scry Engineering" />
     <div className="contentdiv">
       <p>
       Seconds matter. Data matters. Your time matters, so we want to help you spend it as efficiently as possible.
       </p>
       <p>
-      At Custom Programming Solutions, we stress that not all business problems can be solved by implementing new software. 
+      At Scry Engineering, we stress that not all business problems can be solved by implementing new software. 
       In fact, if you introduce new software without solving your underlying operational issues, your problems will not only linger, they'll multiply.
       That's why we combine years of specialized expertise in workflow and process automation, mathematical optimization and software development to help you make better decisions.
       </p>
