@@ -1,0 +1,5 @@
+# Vim related
+*.swp
+
+# Macrap
+.DS_Store
