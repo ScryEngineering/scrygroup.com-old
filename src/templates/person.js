@@ -1,4 +1,5 @@
 import React from "react";
+import { graphql } from 'gatsby'
 import HelmetWrapper from "../components/HelmetWrapper/HelmetWrapper";
 import Masthead from '../components/Masthead/Masthead'
 
