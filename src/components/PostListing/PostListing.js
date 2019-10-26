@@ -15,7 +15,6 @@ export default class PostListing extends React.Component {
     const postList = this.props.postEdges;
     const nonDraftPosts = postList.filter(post => post.node.frontmatter.draft !== true);
     let displayedPosts = nonDraftPosts;
-    console.log(displayedPosts)
     if (this.props.filter) {
       displayedPosts = nonDraftPosts.filter(this.props.filter);
     }

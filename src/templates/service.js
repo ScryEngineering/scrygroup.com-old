@@ -12,7 +12,6 @@ export default function Template({
   location
 }) {
   // data.markdownRemark holds our service post data
-  console.log(data)
   const post = data.service.edges[0].node;
   const postHasCallToAction = post.frontmatter.hideCallToAction === null || post.frontmatter.hideCallToAction !== true;
   const postHasCallToActionText = post.frontmatter.callToActionText !== null;

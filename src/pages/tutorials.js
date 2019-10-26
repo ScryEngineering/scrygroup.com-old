@@ -8,7 +8,6 @@ import Layout from '../components/Layout/Layout'
 
 export default class TutorialListingTemplate extends React.Component {
   render(){
-    console.log(this.props.data)
     return (
       <Layout location={this.props.location}>
         <HelmetWrapper title="Tutorials" />
