@@ -20,8 +20,9 @@ const TagsPage = ({
   data: {
     allMarkdownRemark: { group },
   },
+  location
 }) => (
-  <Layout location={this.props.location}>
+  <Layout location={location}>
     <HelmetWrapper title="Tags" />
     <Masthead heading="Tags" />
     <div className="contentdiv">
