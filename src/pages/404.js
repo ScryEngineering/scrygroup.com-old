@@ -4,8 +4,8 @@ import Masthead from '../components/Masthead/Masthead'
 
 import Layout from '../components/Layout/Layout'
 
-const NotFoundPage = () => (
-  <Layout location={this.props.location}>
+const NotFoundPage = props => (
+  <Layout location={props.location}>
     <HelmetWrapper title="Not found" />
     <Masthead heading="Not found" />
     <div className="contentdiv">
