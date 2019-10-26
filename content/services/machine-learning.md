@@ -62,7 +62,7 @@ Related competencies:
 
 Operations research will often use approaches and algorithms from machine learning in practical settings. 
 
-Systems architecture has an enormous impact on the effectiveness  of a machine learning rollout since machine learning is a very complex field. In general, machine learning is a very resource intensive activity that's often bounded by resources available. This puts more stress on good systems architecture design. Custom Programming Solutions builds real-time machine learning systems, which have different, more stringent requirements on performance and latency. 
+Systems architecture has an enormous impact on the effectiveness  of a machine learning rollout since machine learning is a very complex field. In general, machine learning is a very resource intensive activity that's often bounded by resources available. This puts more stress on good systems architecture design. Scry Engineering builds real-time machine learning systems, which have different, more stringent requirements on performance and latency. 
 
 
 

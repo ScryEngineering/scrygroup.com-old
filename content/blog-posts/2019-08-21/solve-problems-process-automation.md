@@ -71,7 +71,7 @@ Needless to say, a lot can go wrong at critical points in these processes, with 
 
 **The situation:** Think about all the software and applications you use in the span of an average week in your business - probably a dozen or more, right? Some are legacy programs while others are newer cloud-based or onsite applications, and they need to interact seamlessly so data can be transferred quickly between programs. You may have heard of APIs (Application Programming Interfaces) - these are critical because they let applications interact with one another and exchange information. When programs provide poor interfaces, it makes it more difficult for them to cooperate smoothly with other software. 
 
-**The fix:** Business process automation software can help your most vital systems "talk" to each other, glitch-free. At Custom Programming Solutions, we specialize in assessing your software and technological challenges and building the right solution to address them. 
+**The fix:** Business process automation software can help your most vital systems "talk" to each other, glitch-free. At Scry Engineering, we specialize in assessing your software and technological challenges and building the right solution to address them. 
 
 A new system that integrates all of these programs will improve efficiency and eliminate the frustrating bottlenecks that happen when applications don't interact properly.
 

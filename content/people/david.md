@@ -7,8 +7,8 @@ bio: "Business Development and Canadian Operations Manager"
 socialUrls:
     - "https://www.linkedin.com/in/davidjameslake/"
     - "https://github.com/Niagaradad"
-shortBlurb: "David is a Business Development and Canadian Operations Manager at Custom Programming Solutions."
-miniBlurb: "David is a Business Development and Canadian Operations Manager at Custom Programming Solutions."
+shortBlurb: "David is a Business Development and Canadian Operations Manager at Scry Engineering."
+miniBlurb: "David is a Business Development and Canadian Operations Manager at Scry Engineering."
 ---
 
 David’s comprehensive understanding of project management, sales and operations made him a natural choice for the role of Business Development and Canadian Operations Manager.

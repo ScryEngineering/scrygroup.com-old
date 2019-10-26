@@ -1,6 +1,6 @@
 # CPS content
 
-This is the content for the Custom Programming Solutions website.
+This is the content for the Scry Engineering website.
 
 ## Directory structure
 

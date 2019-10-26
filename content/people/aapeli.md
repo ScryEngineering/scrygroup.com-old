@@ -9,13 +9,13 @@ socialUrls:
     - "https://github.com/aapeliv"
     - "mailto:aapeli@customprogrammingsolutions.com.au"
     - "https://www.linkedin.com/in/aapelivuorinen/"
-shortBlurb: "Aapeli is a Senior Technical Consultant at Custom Programming Solutions. As our in-house blockchain and mathematics specialist, he has a passion for using technology and abstract reasoning to solve complex problems with smart, creative people. He brings rigorous mathematical thinking and in-depth expertise in cryptography, mathematical optimization and general systems architecture & development to his role.
+shortBlurb: "Aapeli is a Senior Technical Consultant at Scry Engineering. As our in-house blockchain and mathematics specialist, he has a passion for using technology and abstract reasoning to solve complex problems with smart, creative people. He brings rigorous mathematical thinking and in-depth expertise in cryptography, mathematical optimization and general systems architecture & development to his role.
 
 He hones his thirst for knowledge by studying for a master’s degree in statistics and mathematics at the University of Melbourne, with a special interest in blockchain and researching new systems."
-miniBlurb: "Aapeli is a Senior Technical Consultant at Custom Programming Solutions. As the company’s in-house blockchain and mathematics specialist, he has a passion for using technology and abstract reasoning to solve complex problems with smart, creative people."
+miniBlurb: "Aapeli is a Senior Technical Consultant at Scry Engineering. As the company’s in-house blockchain and mathematics specialist, he has a passion for using technology and abstract reasoning to solve complex problems with smart, creative people."
 ---
 
-As co-founder and Senior Technical Consultant at Custom Programming Solutions, Aapeli partnered with Janis Lesinskis to launch the company's operations in Australia in early 2018. A problem solver at heart, he knew he had a big challenge on his hands when it came to building a software company he could be proud of.
+As co-founder and Senior Technical Consultant at Scry Engineering, Aapeli partnered with Janis Lesinskis to launch the company's operations in Australia in early 2018. A problem solver at heart, he knew he had a big challenge on his hands when it came to building a software company he could be proud of.
 
 Aapeli is our in-house blockchain and mathematics specialist and has a passion for using technology and abstract reasoning to solve complex problems with smart, creative people. He brings rigorous mathematical thinking and in-depth expertise in cryptography, machine learning, mathematical optimization and general systems architecture & development to his role. He also possesses experience in distributed systems, full-stack software engineering, Natural Language Processing, data analysis and deploying data science solutions, as well as other areas.
 

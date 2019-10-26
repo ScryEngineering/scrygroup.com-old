@@ -1,5 +1,5 @@
 ---
-name: "Custom Programming Solutions"
+name: "Scry Engineering"
 teamMember: false
 image: "cps.png"
 url: "https://www.customprogrammingsolutions.com"

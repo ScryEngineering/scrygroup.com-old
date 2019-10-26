@@ -9,10 +9,10 @@ socialUrls:
     - "https://github.com/shuttle1987"
     - "mailto:janis@customprogrammingsolutions.com.au"
     - "https://www.linkedin.com/in/janislesinskis/"
-shortBlurb: "Janis is the Director of Technological Innovation at Custom Programming Solutions. He takes on a diverse set of tasks, from business development to tech management and contributing his technical knowledge to many projects.
+shortBlurb: "Janis is the Director of Technological Innovation at Scry Engineering. He takes on a diverse set of tasks, from business development to tech management and contributing his technical knowledge to many projects.
 
 Heavily involved in the software industry, he collaborates on multiple cutting edge open source projects on an ongoing basis."
-miniBlurb: "As Director of Technological Innovation of Custom Programming Solutions, Janis takes on a diverse set of tasks, from business development to tech management and contributing his technical knowledge to many projects."
+miniBlurb: "As Director of Technological Innovation of Scry Engineering, Janis takes on a diverse set of tasks, from business development to tech management and contributing his technical knowledge to many projects."
 ---
 
 As the Director of Technological Innovation at CPS, Janis Lesinskis takes on a diverse set of tasks, from business development to tech management and contributing his technical knowledge to many projects.
