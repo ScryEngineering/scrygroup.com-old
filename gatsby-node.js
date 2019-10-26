@@ -33,8 +33,8 @@ const createPostNode = (node, getNode, createNodeField, fileSourcePath, pageType
 then make a flag to mark the type of node based on where it came from in the content directory.
 This is needed because it's hard to actually extract where a MarkdownRemark page came
 from after the fact when constructing the GraphQL queries. */
-exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
-  const { createNodeField } = boundActionCreators
+exports.onCreateNode = ({ node, getNode, actions }) => {
+  const { createNodeField } = actions
   if (node.internal.type === `MarkdownRemark`) {
     let isOfType = name => node.fileAbsolutePath.includes(`content/${name}/`)
     let pageType; // default to blog post
@@ -84,8 +84,8 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
   }
 };
 
-exports.createPages = ({ graphql, boundActionCreators }) => {
-  const { createPage } = boundActionCreators
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions
   const tagPage = path.resolve("src/templates/tag.js");
   const authorPage = path.resolve("src/templates/person.js");
   const postPage = path.resolve("src/templates/post.js");
@@ -263,8 +263,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   })
 };
 
-exports.modifyWebpackConfig = ({ config, stage }) => {
+exports.onCreateWebpackConfig = ({ actions, stage }) => {
   if (stage === "build-javascript") {
-    config.plugin("Lodash", webpackLodashPlugin, null);
+    actions.setWebpackConfig({ plugins: [new webpackLodashPlugin()] })
   }
 };

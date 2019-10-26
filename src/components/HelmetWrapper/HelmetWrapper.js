@@ -1,5 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
+import * as PropTypes from "prop-types";
 
 import config from "../../../data/SiteConfig"
 
@@ -23,10 +24,10 @@ export default class HelmetWrapper extends React.Component {
 }
 
 HelmetWrapper.propTypes = {
-  title: React.PropTypes.string.isRequired,
-  description: React.PropTypes.string,
-  image: React.PropTypes.string,
-  imageAlt: React.PropTypes.string,
+  title: PropTypes.string.isRequired,
+  description: PropTypes.string,
+  image: PropTypes.string,
+  imageAlt: PropTypes.string,
 }
 
 HelmetWrapper.defaultProps = {

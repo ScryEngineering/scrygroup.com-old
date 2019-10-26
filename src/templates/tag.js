@@ -7,7 +7,7 @@ import PostListing from "../components/PostListing/PostListing";
 
 export default class TagTemplate extends React.Component {
   render(){
-    const tag = this.props.pathContext.tag;
+    const tag = this.props.pageContext.tag;
     return (
       <div>
         <HelmetWrapper title={tag + " posts"} />
