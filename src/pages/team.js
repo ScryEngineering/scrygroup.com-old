@@ -8,11 +8,13 @@ import ContactSnippet from "../components/ContactSnippet/ContactSnippet";
 
 import AuthorSection from "../components/AuthorSection/AuthorSection";
 
+import Layout from '../components/Layout/Layout'
+
 export default class TeamPage extends React.Component {
   render() {
     let allTeamMembers = this.props.data.teamMembers.edges;
     return (
-      <div>
+      <Layout location={this.props.location}>
         <HelmetWrapper title="Our Team" />
         <Masthead heading="Our Team" />
         <div className="contentdiv">
@@ -21,7 +23,7 @@ export default class TeamPage extends React.Component {
           ))}
           <ContactSnippet blurb="Interested in how our expert team could transform your business? Fill out the form below and one of them will get in touch with you soon." />
         </div>
-      </div>
+      </Layout>
     );
   }
 }

@@ -13,12 +13,14 @@ import Link from "gatsby-link";
 
 import Masthead from '../components/Masthead/Masthead'
 
+import Layout from '../components/Layout/Layout'
+
 const TagsPage = ({
   data: {
     allMarkdownRemark: { group },
   },
 }) => (
-  <div>
+  <Layout location={this.props.location}>
     <HelmetWrapper title="Tags" />
     <Masthead heading="Tags" />
     <div className="contentdiv">
@@ -32,7 +34,7 @@ const TagsPage = ({
         ))}
       </ul>
     </div>
-  </div>
+  </Layout>
 );
 
 TagsPage.propTypes = {

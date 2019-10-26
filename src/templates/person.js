@@ -6,6 +6,8 @@ import PostListing from "../components/PostListing/PostListing";
 
 import styles from "./person.module.scss";
 
+import Layout from '../components/Layout/Layout'
+
 export default class PersonalAboutTemplate extends React.Component {
     render(){
       //Note that if 2 people have the exact same name this will fail
@@ -14,7 +16,7 @@ export default class PersonalAboutTemplate extends React.Component {
       const allAuthors = this.props.data.allAuthors.edges;
       const author_has_personal_URL = data.frontmatter.url !== null && data.frontmatter.url !== undefined;
       return (
-        <div>
+        <Layout location={this.props.location}>
           <HelmetWrapper title={data.frontmatter.name} description={data.frontmatter.miniBlurb} />
           <Masthead heading={"About " + data.frontmatter.name} paragraph={data.frontmatter.bio + ", " + data.frontmatter.location} />
           <div className="contentdiv">
@@ -25,7 +27,7 @@ export default class PersonalAboutTemplate extends React.Component {
             <h2 className={styles.postsby}>Posts by {data.frontmatter.name}</h2>
             <PostListing postEdges={postEdges} allAuthorsInfo={allAuthors} filter={post => post.node.frontmatter.authors && post.node.frontmatter.authors.indexOf(data.frontmatter.name) >= 0}/>
           </div>
-        </div>
+        </Layout>
       );
     }
 };

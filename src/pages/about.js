@@ -4,9 +4,10 @@ import HelmetWrapper from "../components/HelmetWrapper/HelmetWrapper";
 import Masthead from '../components/Masthead/Masthead'
 import ContactSnippet from "../components/ContactSnippet/ContactSnippet";
 
+import Layout from '../components/Layout/Layout'
 
 const IndexPage = props => (
-  <div>
+  <Layout location={props.location}>
    <HelmetWrapper title="About" />
     <Masthead heading="About Custom Programming Solutions" />
     <div className="contentdiv">
@@ -45,7 +46,7 @@ const IndexPage = props => (
       </p>
       <ContactSnippet source={props.location.pathname} />
     </div>
-  </div>
+  </Layout>
 )
 
 export default IndexPage

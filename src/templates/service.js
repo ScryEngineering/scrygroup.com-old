@@ -4,9 +4,12 @@ import Masthead from '../components/Masthead/Masthead'
 
 import ContactSnippet from "../components/ContactSnippet/ContactSnippet";
 
+import Layout from '../components/Layout/Layout'
+
 export default function Template({
   // this prop will be injected by the GraphQL query below.
   data,
+  location
 }) {
   // data.markdownRemark holds our service post data
   console.log(data)
@@ -14,7 +17,7 @@ export default function Template({
   const postHasCallToAction = post.frontmatter.hideCallToAction === null || post.frontmatter.hideCallToAction !== true;
   const postHasCallToActionText = post.frontmatter.callToActionText !== null;
   return (
-    <div>
+    <Layout location={location}>
       <HelmetWrapper title={post.frontmatter.name} description={post.excerpt} />
       <Masthead heading={post.frontmatter.name}/>
       <div className="contentdiv">
@@ -29,7 +32,7 @@ export default function Template({
             )
         }
       </div>
-    </div>
+    </Layout>
   );
 }
 

@@ -5,17 +5,19 @@ import Link from "gatsby-link";
 import Masthead from '../components/Masthead/Masthead'
 import PostListing from "../components/PostListing/PostListing";
 
+import Layout from '../components/Layout/Layout'
+
 export default class TagTemplate extends React.Component {
   render(){
     const tag = this.props.pageContext.tag;
     return (
-      <div>
+      <Layout location={this.props.location}>
         <HelmetWrapper title={tag + " posts"} />
         <Masthead heading={"Posts tagged with \"" + tag + "\""} />
         <div className="contentdiv">
           <PostListing postEdges={this.props.data.allMarkdownRemark.edges} allAuthorsInfo={this.props.data.authors.edges} />
         </div>
-      </div>
+      </Layout>
     );
   }
 }

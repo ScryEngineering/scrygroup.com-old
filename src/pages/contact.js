@@ -5,8 +5,10 @@ import HelmetWrapper from "../components/HelmetWrapper/HelmetWrapper";
 import Masthead from '../components/Masthead/Masthead'
 import ContactSnippet from "../components/ContactSnippet/ContactSnippet";
 
+import Layout from '../components/Layout/Layout'
+
 const ContactPage = props => (
-  <div>
+  <Layout location={props.location}>
     <HelmetWrapper title="Contact" />
     <Masthead heading="Contact us" />
     <div className="contentdiv">
@@ -17,7 +19,7 @@ const ContactPage = props => (
       </p>
       <ContactSnippet source={props.location.pathname} blurb="Prefer to have us contact you? Fill out the form below and we'll get in touch as soon as possible." />
     </div>
-  </div>
+  </Layout>
 )
 
 export default ContactPage

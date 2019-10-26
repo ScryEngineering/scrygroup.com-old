@@ -4,17 +4,19 @@ import Masthead from '../components/Masthead/Masthead'
 
 import PostListing from "../components/PostListing/PostListing";
 
+import Layout from '../components/Layout/Layout'
+
 export default class TutorialListingTemplate extends React.Component {
   render(){
     console.log(this.props.data)
     return (
-      <div>
+      <Layout location={this.props.location}>
         <HelmetWrapper title="Tutorials" />
         <Masthead heading="Tutorials" />
         <div className="contentdiv">
           <PostListing postEdges={this.props.data.allMarkdownRemark.edges} allAuthorsInfo={this.props.data.authors.edges} filter={post => post.node.frontmatter.contentType === "tutorial"} />
         </div>
-      </div>
+      </Layout>
     );
   }
 }

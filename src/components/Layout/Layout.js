@@ -1,15 +1,15 @@
 import React from 'react'
 
-import HelmetWrapper from "../components/HelmetWrapper/HelmetWrapper";
-import NavBar from '../components/NavBar/NavBar'
-import Footer from '../components/Footer/Footer';
+import HelmetWrapper from "../HelmetWrapper/HelmetWrapper";
+import NavBar from '../NavBar/NavBar'
+import Footer from '../Footer/Footer';
 
-import config from '../../data/SiteConfig';
+import config from '../../../data/SiteConfig';
 
 import './reset.css'
-import './index.scss'
+import './Layout.scss'
 
-require("../styles/code.scss");
+require("../../styles/code.scss");
 require(`katex/dist/katex.min.css`)
 
 export default class TemplateWrapper extends React.Component {
@@ -26,7 +26,7 @@ export default class TemplateWrapper extends React.Component {
           <link rel="stylesheet" href="https://use.typekit.net/bae2fex.css" />
         </HelmetWrapper>
         <NavBar />
-        {this.props.children()}
+        {this.props.children}
         <Footer
           copyright={{
             label: "Custom Programming Solutions Pty Ltd",

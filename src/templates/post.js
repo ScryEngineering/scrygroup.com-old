@@ -6,11 +6,14 @@ import ContactSnippet from "../components/ContactSnippet/ContactSnippet";
 import Masthead from "../components/Masthead/Masthead";
 import PostTags from "../components/PostTags/PostTags";
 
+import Layout from '../components/Layout/Layout'
+
 import { matchNamesToAuthors, authorAndDateLine } from "../helpers/AuthorHelpers";
 
 export default function Template({
   // this prop will be injected by the GraphQL query below.
   data,
+  location
 }) {
   // data.markdownRemark holds our post data
   const post = data.markdownRemark;
@@ -19,7 +22,7 @@ export default function Template({
   const postHasCallToActionText = post.frontmatter.callToActionText !== null;
   const authors = matchNamesToAuthors(post.frontmatter.authors, data.authors.edges);
   return (
-    <div>
+    <Layout location={location}>
       <HelmetWrapper title={post.frontmatter.title} description={post.excerpt} />
       <Masthead heading={post.frontmatter.title} paragraph={authorAndDateLine(authors, post.frontmatter.date)} />
       <div className="contentdiv">
@@ -47,7 +50,7 @@ export default function Template({
             )
         }
       </div>
-    </div>
+    </Layout>
   );
 }
 
