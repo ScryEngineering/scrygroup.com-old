@@ -21,7 +21,7 @@ Aapeli is our in-house blockchain and mathematics specialist and has a passion f
 
 “I find cryptography very interesting,” he says. “The idea of having security that even the greatest nation-states won’t be able to break in the foreseeable future is very empowering and somehow oddly satisfying.”
 
-Before joining CPS, Aapeli designed and built intricate blockchain systems at a cryptocurrency startup whose mission was to build a community owned cryptocurrency exchange. Before that, he worked with a multinational logistics company, extracting meaningful answers from big data to identify inefficiencies through Biarri, a Brisbane based consultancy. At the University of Queensland, he studied mathematics, physics, statistics and economics, and graduated at the top of his class.
+Before joining the company, Aapeli designed and built intricate blockchain systems at a cryptocurrency startup whose mission was to establish a community-owned cryptocurrency exchange. Before that, he worked with a multinational logistics company, extracting meaningful answers from big data to identify inefficiencies through Biarri, a Brisbane based consultancy. At the University of Queensland, he studied mathematics, physics, statistics and economics, and graduated at the top of his class.
 
 Today, Aapeli continues to hone his thirst for knowledge by studying for a master’s degree in statistics and mathematics at the University of Melbourne, with a special interest in blockchain and researching new systems. His dedication to helping others learn has motivated him to co-create eight-week bootcamp training courses in blockchain, cloud apps, and machine learning (a project that concluded in September 2018).
 
