@@ -15,9 +15,9 @@ Heavily involved in the software industry, he collaborates on multiple cutting e
 miniBlurb: "As Director of Technological Innovation of Scry Engineering, Janis takes on a diverse set of tasks, from business development to tech management and contributing his technical knowledge to many projects."
 ---
 
-As the Director of Technological Innovation at CPS, Janis Lesinskis takes on a diverse set of tasks, from business development to tech management and contributing his technical knowledge to many projects.
+As the Director of Technological Innovation at Scry Engineering, Janis Lesinskis takes on a diverse set of tasks, from business development to tech management and contributing his technical knowledge to many projects.
 
-In September 2017, Janis partnered with David Lake to launch the company. He combines a strong commitment to ethical business practices with passion for education, critical thinking and collaboration.
+In September 2017, Janis launched the company with the help of a partner. He combines a strong commitment to ethical business practices with passion for education, critical thinking and collaboration.
 
 > “I’m in a position where I don’t have to make ethical trade-offs in order to actually be effective in my role. I like being able to create situations where doing good work is aligned with real incentives.”
 
