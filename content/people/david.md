@@ -1,6 +1,6 @@
 ---
 name: "David Lake"
-teamMember: true
+teamMember: false
 image: "david.jpg"
 location: "Canada"
 bio: "Business Development and Canadian Operations Manager"
@@ -13,7 +13,7 @@ miniBlurb: "David is a Business Development and Canadian Operations Manager at S
 
 David’s comprehensive understanding of project management, sales and operations made him a natural choice for the role of Business Development and Canadian Operations Manager.
 
-Arriving at CPS in September 2017 after working in the logistics and media industries, David’s maturity and experience have proven an invaluable asset as the company established itself.
+Arriving in September 2017 after working in the logistics and media industries, David’s maturity and experience have proven an invaluable asset as the company established itself.
 
 “We both have a focus on the bigger picture issues and the surrounding aspects of the work we do,” says Janis. “This was, and is, important to us. We’re committed to running an effective, sustainable and well-managed software company that offers demonstrable value to its clients through our products and services.”
 
